@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '.compute-1.amazonaws.com',
-    'theallin.space',
+    'theallin.space:8000',
 ]
 
 

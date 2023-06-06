@@ -29,7 +29,8 @@ ALLOWED_HOSTS = [
     '.compute-1.amazonaws.com',
     'theallin.space:8000',
     'theallin.space',
-    '127.0.0.1',
+    '54.82.169.62',
+    #'127.0.0.1',
 ]
 
 
